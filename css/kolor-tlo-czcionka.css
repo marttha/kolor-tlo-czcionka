@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+    text-align: justify;
+    background-color: aqua;
+    
+}
+h1,h3{
+    background-color: blueviolet;
+}
+p,ol{
+    background-color: chartreuse;
+}
